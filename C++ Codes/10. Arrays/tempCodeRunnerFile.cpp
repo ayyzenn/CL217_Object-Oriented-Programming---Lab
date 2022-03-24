@@ -1,0 +1,1 @@
+sizeof(myNum)/sizeof(int)
