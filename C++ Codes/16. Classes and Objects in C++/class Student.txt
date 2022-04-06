@@ -1,0 +1,21 @@
+class Student
+{
+
+    int id;  // instance variables
+    string name;
+
+    void setData(int id, string name)  // called function
+    {
+        this->id=id;
+        this->name=name;
+    }
+
+}
+
+setData(44, "Ali")   // calling function // caller
+
+this pointer refers to the current class instance variables
+
+this pointer refers to the current class object
+
+
